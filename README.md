@@ -1,2 +1,2 @@
-# curso-algoritmo
- Exercícios executados para o curso de Algorítmos em Portugol do professos Guanabara - Curso em Vídeo
+﻿# Curso de Algoritmo - Curso em Vídeo / Professor Gustavo Guanabara
+ Exercícios executados para o curso de Algorítmos em Portugol utilisando o VisuAlg
